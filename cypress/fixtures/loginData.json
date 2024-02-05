@@ -4,7 +4,7 @@
     "password": "secret_sauce"
   },
   {
-    "username": "locked_out_user",
+    "username": "error_user",
     "password": "secret_sauce"
   },
   {
@@ -13,6 +13,10 @@
   },
   {
     "username": "performance_glitch_user",
+    "password": "secret_sauce"
+  }, 
+  {
+    "username": "visual_user",
     "password": "secret_sauce"
   }
 ]
