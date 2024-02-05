@@ -4,7 +4,7 @@
 Sauce Labs Demo: https://www.saucedemo.com/
 
 ## Funcionalidade: Login
-# Cenários:
+### Cenários:
     -1: Deve fazer login com sucesso - Multiplos usuários ( usando Data-Driven-testing )
     -2: Deve fazer login com sucesso - Forma comum ( apenas para comparar )
 
